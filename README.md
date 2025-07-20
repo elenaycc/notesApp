@@ -4,7 +4,7 @@ This is a simple and colorful notes app built with React. Users can add, filter,
 
 ## 🚀 Live Demo
 
-👉 [View Live App](https://notesapp-demo.netlify.app)
+👉 [View Live App](https://creative-beijinho-4ece40.netlify.app)
 
 ## ✨ Features
 
